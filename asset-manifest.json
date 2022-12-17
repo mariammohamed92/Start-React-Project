@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Start-React-Project/static/css/main.4d6f0dc9.css",
+    "main.js": "/Start-React-Project/static/js/main.006c774f.js",
+    "static/js/787.7f320c1d.chunk.js": "/Start-React-Project/static/js/787.7f320c1d.chunk.js",
+    "static/media/bubble-gum-error-404.gif": "/Start-React-Project/static/media/bubble-gum-error-404.fccb7171e8447468869d.gif",
+    "static/media/fa-solid-900.ttf": "/Start-React-Project/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/Start-React-Project/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/Start-React-Project/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/Start-React-Project/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/Start-React-Project/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/cabin.png": "/Start-React-Project/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/Start-React-Project/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/Start-React-Project/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/Start-React-Project/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/submarine.png": "/Start-React-Project/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/Start-React-Project/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/Start-React-Project/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/Start-React-Project/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/Start-React-Project/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Start-React-Project/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Start-React-Project/index.html",
+    "main.4d6f0dc9.css.map": "/Start-React-Project/static/css/main.4d6f0dc9.css.map",
+    "main.006c774f.js.map": "/Start-React-Project/static/js/main.006c774f.js.map",
+    "787.7f320c1d.chunk.js.map": "/Start-React-Project/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6f0dc9.css",
+    "static/js/main.006c774f.js"
+  ]
+}
